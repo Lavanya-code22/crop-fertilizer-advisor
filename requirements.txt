@@ -1,0 +1,7 @@
+#  requirements.txt #
+streamlit
+scikit-learn
+pandas
+joblib
+fpdf2
+requests
