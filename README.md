@@ -18,7 +18,13 @@ Choosing the right crop and fertilizer is hard without a soil test. I built this
 - Power BI dashboard of crop patterns
 
 ## Screenshots
-![app_results.png.png](app_results.png.png)
+
+**App: recommendation result**
+
+![App results](app_results.png.png)
+
+**Power BI dashboard**
+
 ![Dashboard](dashboard_screenshot.png.png)
 
 ## Models compared
@@ -41,10 +47,10 @@ Python, pandas, scikit-learn, Streamlit, Power BI, fpdf2, Open-Meteo API
 - This tool supports decisions and does not replace a soil test or a local agriculture officer.
 
 ## Run locally
-'''
+```
 pip install -r requirements.txt
 streamlit run app.py
-'''
+```
 
 ## Future work
 Leaf disease detection from photos (CNN), more languages, PDF in regional languages.
