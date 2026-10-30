@@ -19,7 +19,7 @@ Choosing the right crop and fertilizer is hard without a soil test. I built this
 
 ## Screenshots
 ![app_results.png.png](app_results.png.png)
-![Dashboard](dashboard_screenshot.png)
+![Dashboard](dashboard_screenshot.png.png)
 
 ## Models compared
 | Model | Test accuracy | 5-fold cross-validation |
