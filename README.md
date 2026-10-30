@@ -18,7 +18,7 @@ Choosing the right crop and fertilizer is hard without a soil test. I built this
 - Power BI dashboard of crop patterns
 
 ## Screenshots
-![dashboard_screenshot.png](app_results.png)
+![app_results.png.png](app_results.png.png)
 ![Dashboard](dashboard_screenshot.png)
 
 ## Models compared
